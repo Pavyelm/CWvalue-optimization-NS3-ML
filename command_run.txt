@@ -1,0 +1,1 @@
+./ns3 run "scratch/wifi7_multi_bss --numRouters=3 --numStations=1 --simulationTime=10.0 --gridSize=100.0 --gridSpacing=50.0"
